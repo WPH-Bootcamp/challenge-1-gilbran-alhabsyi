@@ -1,1 +1,40 @@
 /* code here */
+header {
+  text-align: center;
+  background-color: rgb(62, 62, 62);
+  color: aliceblue;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.tulisan {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#id {
+  text-align: justify;
+  padding-bottom: -30px;
+}
+
+.daftar-buku {
+  margin-top: 40px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.gambar-buku {
+  align-items: center;
+}
+
+.article {
+  text-align: justify;
+}
+
+footer {
+  background-color: rgb(62, 62, 62);
+  color: aliceblue;
+}
